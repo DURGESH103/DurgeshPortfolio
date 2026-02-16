@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "shortDescription": "Full-stack e-commerce solution with payment integration, admin dashboard, and real-time inventory management.",
+    "fullDescription": "A comprehensive e-commerce platform built with the MERN stack, featuring secure payment processing through Stripe, real-time inventory tracking, and an intuitive admin dashboard for managing products, orders, and customers. The platform includes advanced search functionality, product filtering, and a responsive design that works seamlessly across all devices.",
+    "tech": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind", "Redux", "Express"],
+    "images": [
+      "/projects/ecommerce-1.jpg",
+      "/projects/ecommerce-2.jpg",
+      "/projects/ecommerce-3.jpg",
+      "/projects/ecommerce-4.jpg"
+    ],
+    "features": [
+      "Secure user authentication with JWT",
+      "Real-time inventory management",
+      "Stripe payment integration",
+      "Admin dashboard with analytics",
+      "Product search and filtering",
+      "Order tracking system",
+      "Responsive design for all devices"
+    ],
+    "challenges": [
+      "Implemented real-time inventory sync across multiple users",
+      "Optimized database queries for faster product searches",
+      "Integrated secure payment processing with Stripe webhooks",
+      "Built scalable architecture to handle high traffic"
+    ],
+    "liveUrl": "https://demo.example.com",
+    "githubUrl": "https://github.com/yourusername/ecommerce",
+    "status": "Completed",
+    "featured": true,
+    "category": "Full Stack"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "shortDescription": "Collaborative task management tool with real-time updates, team collaboration features, and analytics dashboard.",
+    "fullDescription": "A powerful task management application designed for teams, featuring real-time collaboration through Socket.io, drag-and-drop task organization, and comprehensive analytics. Users can create projects, assign tasks, set deadlines, and track progress with visual dashboards and reports.",
+    "tech": ["React", "Express", "Socket.io", "PostgreSQL", "Redux", "Tailwind"],
+    "images": [
+      "/projects/taskapp-1.jpg",
+      "/projects/taskapp-2.jpg",
+      "/projects/taskapp-3.jpg"
+    ],
+    "features": [
+      "Real-time collaboration with Socket.io",
+      "Drag-and-drop task management",
+      "Team member assignment",
+      "Progress tracking and analytics",
+      "Deadline notifications",
+      "Project templates",
+      "Export reports to PDF"
+    ],
+    "challenges": [
+      "Implemented real-time synchronization for multiple users",
+      "Optimized WebSocket connections for scalability",
+      "Built complex state management with Redux",
+      "Created intuitive drag-and-drop interface"
+    ],
+    "liveUrl": "https://demo.example.com",
+    "githubUrl": "https://github.com/yourusername/taskapp",
+    "status": "Completed",
+    "featured": true,
+    "category": "Full Stack"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Dashboard",
+    "shortDescription": "Analytics dashboard for social media metrics with data visualization and automated reporting.",
+    "fullDescription": "An analytics platform that aggregates social media data from multiple sources, providing comprehensive insights through interactive charts and graphs. Features automated report generation, custom metrics tracking, and scheduled email reports for stakeholders.",
+    "tech": ["React", "Node.js", "MongoDB", "Chart.js", "Material-UI"],
+    "images": [
+      "/projects/dashboard-1.jpg",
+      "/projects/dashboard-2.jpg",
+      "/projects/dashboard-3.jpg"
+    ],
+    "features": [
+      "Multi-platform data aggregation",
+      "Interactive data visualizations",
+      "Custom metrics and KPIs",
+      "Automated report generation",
+      "Scheduled email reports",
+      "Export data to CSV/Excel",
+      "Dark mode support"
+    ],
+    "challenges": [
+      "Integrated multiple social media APIs",
+      "Optimized data processing for large datasets",
+      "Created responsive chart components",
+      "Implemented efficient caching strategy"
+    ],
+    "liveUrl": "https://demo.example.com",
+    "githubUrl": "https://github.com/yourusername/dashboard",
+    "status": "Ongoing",
+    "featured": false,
+    "category": "Frontend"
+  },
+  {
+    "id": 4,
+    "title": "Weather Forecast App",
+    "shortDescription": "Real-time weather application with location-based forecasts and interactive maps.",
+    "fullDescription": "A modern weather application that provides accurate forecasts using OpenWeather API, featuring interactive maps with Leaflet, hourly and weekly forecasts, and location-based weather alerts. The app includes beautiful weather animations and supports multiple locations.",
+    "tech": ["React", "OpenWeather API", "Tailwind", "Leaflet"],
+    "images": [
+      "/projects/weather-1.jpg",
+      "/projects/weather-2.jpg",
+      "/projects/weather-3.jpg"
+    ],
+    "features": [
+      "Real-time weather data",
+      "7-day forecast",
+      "Hourly predictions",
+      "Interactive weather maps",
+      "Location search",
+      "Weather alerts",
+      "Beautiful animations"
+    ],
+    "challenges": [
+      "Implemented accurate geolocation",
+      "Optimized API calls to reduce costs",
+      "Created smooth weather animations",
+      "Built responsive map interface"
+    ],
+    "liveUrl": "https://demo.example.com",
+    "githubUrl": "https://github.com/yourusername/weather",
+    "status": "Completed",
+    "featured": false,
+    "category": "Frontend"
+  }
+]

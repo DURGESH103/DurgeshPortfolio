@@ -1,0 +1,147 @@
+{
+  "personal": {
+    "name": "Durgesh Kumar",
+    "role": "Full Stack MERN Developer",
+    "tagline": "Building scalable web applications with modern technologies",
+    "email": "dkumar11dec2003@gmail.com",
+    "phone": "+91 9199832950",
+    "location": "India",
+    "resumeUrl": "/resume.pdf",
+    "profileImage": "/profile.jpg"
+  },
+  "social": {
+    "github": "https://github.com/DURGESH103",
+    "linkedin": "https://www.linkedin.com/in/durgeshkumardk",
+    "twitter": "https://twitter.com/durgeshkumar",
+    "portfolio": "https://durgeshkumar.dev"
+  },
+  "about": {
+    "description": "Passionate Full Stack Developer with 3+ years of experience building modern web applications. Specialized in MERN stack with a focus on creating scalable, user-friendly solutions. I love turning complex problems into simple, beautiful interfaces.",
+    "highlights": [
+      "3+ years of professional experience",
+      "10+ successful projects delivered",
+      "Strong focus on clean code & best practices",
+      "Passionate about UI/UX design"
+    ]
+  },
+  "skills": {
+    "frontend": [
+      { "name": "React", "level": 90 },
+      { "name": "JavaScript/ES6+", "level": 90 },
+      { "name": "TypeScript", "level": 85 },
+      { "name": "Tailwind CSS", "level": 90 },
+      { "name": "HTML5/CSS3", "level": 95 },
+      { "name": "Redux", "level": 80 }
+    ],
+    "backend": [
+      { "name": "Node.js", "level": 85 },
+      { "name": "Express.js", "level": 85 },
+      { "name": "REST APIs", "level": 90 },
+      { "name": "GraphQL", "level": 75 }
+    ],
+    "database": [
+      { "name": "MongoDB", "level": 85 },
+      { "name": "PostgreSQL", "level": 75 },
+      { "name": "Redis", "level": 70 }
+    ],
+    "tools": [
+      { "name": "Git/GitHub", "level": 90 },
+      { "name": "Docker", "level": 75 },
+      { "name": "AWS", "level": 70 },
+      { "name": "Vercel", "level": 85 }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with payment integration, admin dashboard, and real-time inventory management.",
+      "image": "/projects/ecommerce.jpg",
+      "tech": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind"],
+      "liveUrl": "https://demo.example.com",
+      "githubUrl": "https://github.com/yourusername/ecommerce",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "Collaborative task management tool with real-time updates, team collaboration features, and analytics dashboard.",
+      "image": "/projects/taskapp.jpg",
+      "tech": ["React", "Express", "Socket.io", "PostgreSQL", "Redux"],
+      "liveUrl": "https://demo.example.com",
+      "githubUrl": "https://github.com/yourusername/taskapp",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Social Media Dashboard",
+      "description": "Analytics dashboard for social media metrics with data visualization and automated reporting.",
+      "image": "/projects/dashboard.jpg",
+      "tech": ["React", "Node.js", "MongoDB", "Chart.js", "Material-UI"],
+      "liveUrl": "https://demo.example.com",
+      "githubUrl": "https://github.com/yourusername/dashboard",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Weather Forecast App",
+      "description": "Real-time weather application with location-based forecasts and interactive maps.",
+      "image": "/projects/weather.jpg",
+      "tech": ["React", "OpenWeather API", "Tailwind", "Leaflet"],
+      "liveUrl": "https://demo.example.com",
+      "githubUrl": "https://github.com/yourusername/weather",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "company": "Tech Company Inc.",
+      "location": "San Francisco, CA",
+      "period": "2022 - Present",
+      "description": "Leading development of scalable web applications using MERN stack. Mentoring junior developers and implementing best practices.",
+      "achievements": [
+        "Improved application performance by 40%",
+        "Led team of 5 developers",
+        "Implemented CI/CD pipeline"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "company": "Startup XYZ",
+      "location": "Remote",
+      "period": "2020 - 2022",
+      "description": "Developed and maintained multiple client projects using React and Node.js.",
+      "achievements": [
+        "Built 10+ production applications",
+        "Reduced load time by 50%",
+        "Implemented responsive designs"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "AWS Certified Developer",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "icon": "award"
+    },
+    {
+      "id": 2,
+      "title": "Top Contributor",
+      "issuer": "Open Source Community",
+      "date": "2022",
+      "icon": "star"
+    },
+    {
+      "id": 3,
+      "title": "Hackathon Winner",
+      "issuer": "Tech Conference 2021",
+      "date": "2021",
+      "icon": "trophy"
+    }
+  ]
+}

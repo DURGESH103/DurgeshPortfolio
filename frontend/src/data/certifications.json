@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "AWS Certified Developer - Associate",
+    "issuer": "Amazon Web Services",
+    "date": "2023",
+    "category": "Cloud",
+    "image": "/certificates/aws-developer.jpg",
+    "credentialUrl": "https://aws.amazon.com/verification",
+    "description": "Validates technical expertise in developing and maintaining applications on AWS"
+  },
+  {
+    "id": 2,
+    "title": "React - The Complete Guide",
+    "issuer": "Udemy",
+    "date": "2023",
+    "category": "Frontend",
+    "image": "/certificates/react-complete.jpg",
+    "credentialUrl": "https://udemy.com/certificate",
+    "description": "Comprehensive React course covering hooks, context, Redux, and advanced patterns"
+  },
+  {
+    "id": 3,
+    "title": "Node.js Certification",
+    "issuer": "OpenJS Foundation",
+    "date": "2022",
+    "category": "Backend",
+    "image": "/certificates/nodejs.jpg",
+    "credentialUrl": "https://openjsf.org/certification",
+    "description": "Professional certification for Node.js application development"
+  },
+  {
+    "id": 4,
+    "title": "MongoDB Certified Developer",
+    "issuer": "MongoDB University",
+    "date": "2022",
+    "category": "Backend",
+    "image": "/certificates/mongodb.jpg",
+    "credentialUrl": "https://university.mongodb.com",
+    "description": "Certification in MongoDB database design and development"
+  },
+  {
+    "id": 5,
+    "title": "Advanced CSS and Sass",
+    "issuer": "Udemy",
+    "date": "2022",
+    "category": "Frontend",
+    "image": "/certificates/css-sass.jpg",
+    "credentialUrl": "https://udemy.com/certificate",
+    "description": "Master modern CSS including Flexbox, Grid, animations, and Sass"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Fundamentals",
+    "issuer": "Coursera",
+    "date": "2023",
+    "category": "AI",
+    "image": "/certificates/ml-fundamentals.jpg",
+    "credentialUrl": "https://coursera.org/verify",
+    "description": "Introduction to machine learning algorithms and applications"
+  }
+]
