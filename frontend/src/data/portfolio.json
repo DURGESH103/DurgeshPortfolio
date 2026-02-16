@@ -54,32 +54,32 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-Commerce Platform",
-      "description": "Full-stack e-commerce solution with payment integration, admin dashboard, and real-time inventory management.",
+      "title": "Real-Time-Poll-Rooms ",
+      "description": "A full-stack real-time polling web application that allows users to create polls, share unique links, and collect live votes with instant result updates using WebSockets. Built for high performance, seamless user experience, and scalable real-time data synchronization.",
       "image": "/projects/ecommerce.jpg",
       "tech": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind"],
-      "liveUrl": "https://demo.example.com",
-      "githubUrl": "https://github.com/yourusername/ecommerce",
+      "liveUrl": "https://real-time-poll-rooms-beta.vercel.app",
+      "githubUrl": "https://github.com/DURGESH103/Real-Time-Poll-Rooms.git",
       "featured": true
     },
     {
       "id": 2,
-      "title": "Task Management App",
-      "description": "Collaborative task management tool with real-time updates, team collaboration features, and analytics dashboard.",
+      "title": "QR-Genrator",
+      "description": "A fast and lightweight web tool that generates QR codes instantly from text, URLs, or custom input. Designed with a clean UI and optimized backend processing for quick generation and easy download/share functionality.",
       "image": "/projects/taskapp.jpg",
       "tech": ["React", "Express", "Socket.io", "PostgreSQL", "Redux"],
-      "liveUrl": "https://demo.example.com",
-      "githubUrl": "https://github.com/yourusername/taskapp",
+      "liveUrl": "https://qr-genrator-iota.vercel.app",
+      "githubUrl": "https://github.com/DURGESH103/QR-Genrator.git",
       "featured": true
     },
     {
       "id": 3,
-      "title": "Social Media Dashboard",
-      "description": "Analytics dashboard for social media metrics with data visualization and automated reporting.",
+      "title": "Restobook",
+      "description": "A restaurant booking and management web platform that allows users to explore restaurants, check availability, and reserve tables online. Includes real-time booking updates, user-friendly dashboard, and efficient reservation management for both customers and restaurant owners.",
       "image": "/projects/dashboard.jpg",
       "tech": ["React", "Node.js", "MongoDB", "Chart.js", "Material-UI"],
       "liveUrl": "https://demo.example.com",
-      "githubUrl": "https://github.com/yourusername/dashboard",
+      "githubUrl": "https://github.com/DURGESH103/Restobook.git",
       "featured": false
     },
     {
@@ -89,7 +89,7 @@
       "image": "/projects/weather.jpg",
       "tech": ["React", "OpenWeather API", "Tailwind", "Leaflet"],
       "liveUrl": "https://demo.example.com",
-      "githubUrl": "https://github.com/yourusername/weather",
+      "githubUrl": "https://github.com/DURGESH103/Weather-App.git",
       "featured": false
     }
   ],

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "E-Commerce Platform",
+    "title": "Real-Time-Poll-Rooms",
     "shortDescription": "Full-stack e-commerce solution with payment integration, admin dashboard, and real-time inventory management.",
     "fullDescription": "A comprehensive e-commerce platform built with the MERN stack, featuring secure payment processing through Stripe, real-time inventory tracking, and an intuitive admin dashboard for managing products, orders, and customers. The platform includes advanced search functionality, product filtering, and a responsive design that works seamlessly across all devices.",
     "tech": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind", "Redux", "Express"],
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "title": "Task Management App",
+    "title": "QR-Genrator",
     "shortDescription": "Collaborative task management tool with real-time updates, team collaboration features, and analytics dashboard.",
     "fullDescription": "A powerful task management application designed for teams, featuring real-time collaboration through Socket.io, drag-and-drop task organization, and comprehensive analytics. Users can create projects, assign tasks, set deadlines, and track progress with visual dashboards and reports.",
     "tech": ["React", "Express", "Socket.io", "PostgreSQL", "Redux", "Tailwind"],
@@ -66,7 +66,7 @@
   },
   {
     "id": 3,
-    "title": "Social Media Dashboard",
+    "title": "Restobook",
     "shortDescription": "Analytics dashboard for social media metrics with data visualization and automated reporting.",
     "fullDescription": "An analytics platform that aggregates social media data from multiple sources, providing comprehensive insights through interactive charts and graphs. Features automated report generation, custom metrics tracking, and scheduled email reports for stakeholders.",
     "tech": ["React", "Node.js", "MongoDB", "Chart.js", "Material-UI"],
